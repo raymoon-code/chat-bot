@@ -1,5 +1,4 @@
 aiml
 discord.py
-sqlite3
 dotenv
 cathy
